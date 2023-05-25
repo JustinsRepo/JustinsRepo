@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hello! My name is Justin, I'm 21 Years Old<br><br>- 🔭 I’m working as a Precious Metals & Diamond Specialist<br>- 📚 I'm currently learning Crystal <br>- ⚡ In my free time I enjoy growing plants, collecting coins, playing video games with friends, and making various code</p>
+<p align="left">Hello! My name is Justin, I'm 21 Years Old<br><br>- 🔭 I’m working as a Precious Metals & Diamond Specialist<br>- 📚 I'm currently learning C++ <br>- ⚡ In my free time I enjoy growing plants, collecting coins, playing video games with friends, and making various code</p>
 
 ###
 
